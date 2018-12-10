@@ -242,7 +242,7 @@ button {
   color: white;
   font-family: "Montserrat", "Avenir Next", Helvetica, Arial, sans-serif;
   text-shadow: 1px 1px 4px #000;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(245, 238, 238, 0.4);
 }
 .header__content:hover {
   text-decoration: none;
@@ -272,7 +272,7 @@ button {
 .nav-main__link {
   display: block;
   padding: 10px;
-  color: #fff;
+  color: #ffff22;
 }
 .nav-main__link:hover {
   text-decoration: none;
