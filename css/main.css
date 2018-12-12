@@ -475,3 +475,16 @@ button {
   text-align: center;
   margin-bottom: 35px;
 }
+.-deux-pas-de-la-Gar {
+  width: 960px;
+  height: 116px;
+  font-family: WorkSans;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--red);
+}
