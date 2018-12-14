@@ -13,7 +13,7 @@ padding: 0;
 
 body {
   display : table;
-  position: relative;
+  position: right;
   max-width: auto;
   margin: auto;
   /*border-bottom: 5px solid #d9d9d9;*/
