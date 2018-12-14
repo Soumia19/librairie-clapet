@@ -536,7 +536,7 @@ background: lavender;
 * single
 */
 .page-single {
-  text-align: right;
+  text-align: left;
 }
 
 .page-single__header {
