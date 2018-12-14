@@ -13,7 +13,7 @@ padding: 0;
 
 body {
   display : table;
-  position: right;
+  position: relative;
   max-width: auto;
   margin: auto;
   /*border-bottom: 5px solid #d9d9d9;*/
@@ -33,7 +33,7 @@ li {
 }
 
 p {
-  margin: 15px 0;
+  margin: 100px 0;
 }
 
 b, strong, optgroup {
