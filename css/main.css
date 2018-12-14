@@ -215,7 +215,8 @@ button {
 
 .chapo {
   font-size: 1.6em;
-  text-align: right;
+  text-align: justify
+  columns-count: 3px;
 }
 
 .full-width {
