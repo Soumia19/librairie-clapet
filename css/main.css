@@ -21,6 +21,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #303044;
+
 }
 
 p, li, td, th, textarea, caption, pre, blockquote, label, input, select, textarea {
@@ -215,19 +216,42 @@ button {
 .introduction {
   font-size: 1.7em;
 }
-
 .chapo {
   font-size: 1.6em;
   text-align: justify
+  }
 
-}
-
-
-.full-width {
-  display: block;
-  width: 100%;
-  margin: 50px auto;
-}
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+  
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+  
+  
 
 
 /**
@@ -341,7 +365,9 @@ height: 60px;
   margin: 0;
   font-size: 3.2em;
   font-weight: 100;
-  text-shadow: 1px 1px 5px #000;
+  text-shadow: 1px 1px 5px rgb(159, 33, 231);
+  text-align: center
+
 }
 
 
@@ -359,7 +385,8 @@ height: 60px;
   display: block;
   padding: 10px;
   /*color: #ffff22;*/
-  color: black;
+  color: rgb(0, 128, 28);
+
 }
 .nav-main__link:hover {
   text-decoration: none;
