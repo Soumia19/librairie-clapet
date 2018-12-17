@@ -169,7 +169,8 @@ sup {
  * Remove the border on images inside links in IE 10-.
  */
 img {
-  border-style: none; }
+  border-style: none;
+  border-radius: 80% }
 
 /**
  * Hide the overflow in IE.
@@ -400,7 +401,7 @@ button {
   border: none;
   padding: 0;
   outline: none;
-  cursor: pointer; }
+  cursor: progress; }
 
 a img {
   border: none; }
